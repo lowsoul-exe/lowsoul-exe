@@ -17,7 +17,7 @@
  じしˍ,)ノ
 ```
 
-### These are the tools I work with... if I could say that
+## These are the tools I work with... if I could say that
 ###### Programming languages & frameworks I work with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GSAP Badge](https://img.shields.io/badge/GSAP-0AE448?logo=gsap&logoColor=000&style=for-the-badge) ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge) ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge) ![PostCSS Badge](https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=fff&style=for-the-badge) 
 
@@ -30,8 +30,9 @@
 
 ###### My setup and other apps:
 ![ASUS Badge](https://img.shields.io/badge/ASUS-000?logo=asus&logoColor=fff&style=for-the-badge) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=fff&style=for-the-badge) ![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=for-the-badge) ![qbittorrent Badge](https://img.shields.io/badge/qbittorrent-2F67BA?logo=qbittorrent&logoColor=fff&style=for-the-badge)
-##### ㅤWell, in the near future I want to learn more languages such as: Flutter, Ruby, Git and WASM...
+#### ㅤWell, in the near future I want to learn more languages such as: Flutter, Ruby, Git and WASM...
 
+### Oh, an thats my activity here:
 ![](https://github-readme-stats.vercel.app/api?username=lowsoul-exe&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lowsoul-exe&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lowsoul-exe&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
