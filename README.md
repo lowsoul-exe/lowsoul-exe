@@ -29,8 +29,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ###### My setup and other apps:
-![ASUS Badge](https://img.shields.io/badge/ASUS-000?logo=asus&logoColor=fff&style=for-the-badge) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=fff&style=for-the-badge)
-##### ㅤㅤI also know GSAP and a bit of Linux :)
+![ASUS Badge](https://img.shields.io/badge/ASUS-000?logo=asus&logoColor=fff&style=for-the-badge) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=fff&style=for-the-badge) ![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=for-the-badge) ![MEGA Badge](https://img.shields.io/badge/MEGA-D9272E?logo=mega&logoColor=fff&style=for-the-badge) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) 
 
 ###### ㅤㅤ ㅤ ㅤㅤ ㅤWell, in the near future I want to learn more languages such as: Flutter, Ruby, Git and WASM...
 
