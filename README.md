@@ -1,4 +1,4 @@
-![](https://github.com/lowsoul-exe/lowsoul-exe/blob/main/Screenshot%202026-03-04%20201547.png?raw=true)
+![](https://github.com/lowsoul-exe/lowsoul-exe/blob/main/Screenshot%202026-03-04%20205820.png?raw=true)
 
 Ummm… for whoever the hell is reading this: 
 # 👋 Hi, I’m lowsoul ^_^
