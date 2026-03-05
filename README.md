@@ -3,10 +3,10 @@
 ㅤ ㅤ ㅤ Ummm… for whoever the hell is reading this: 
 # 👋 Hi, I’m lowsoul ^_^
 
-### ㅤ ㅤㅤ ㅤㅤ ㅤI’m an amateur UI/UX designer and a passionate frontend developer.
-###### ㅤㅤI’m on GitHub mainly to showcase my projects and… well, maybe to see some personal growth too :/
+##ㅤ ㅤㅤ ㅤㅤ ㅤI’m an amateur UI/UX designer and a passionate frontend developer.
+##### ㅤㅤI’m on GitHub mainly to showcase my projects and… well, maybe to see some personal growth too :/
 
-###### ㅤ ㅤI really like this whole weird world of computer science, and I have a bit of an obsession with optimizing every project to the maximum — from websites tooperating systems… yeah, I love seeing higher scores and fewer MB used.
+##### ㅤ ㅤI really like this whole weird world of computer science, and I have a bit of an obsession with optimizing every project to the maximum — from websites tooperating systems… yeah, I love seeing higher scores and fewer MB used.
 
 ###### *>_<*
 
@@ -29,8 +29,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ###### My setup and other apps:
-![ASUS Badge](https://img.shields.io/badge/ASUS-000?logo=asus&logoColor=fff&style=for-the-badge) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=fff&style=for-the-badge) ![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=for-the-badge) ![qbittorrent Badge](https://img.shields.io/badge/qbittorrent-2F67BA?logo=qbittorrent&logoColor=fff&style=for-the-badge)
-#### ㅤWell, in the near future I want to learn more languages such as: Flutter, Ruby, Git and WASM...
+<!-- ![ASUS Badge](https://img.shields.io/badge/ASUS-000?logo=asus&logoColor=fff&style=for-the-badge) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=fff&style=for-the-badge) ![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=for-the-badge) ![qbittorrent Badge](https://img.shields.io/badge/qbittorrent-2F67BA?logo=qbittorrent&logoColor=fff&style=for-the-badge) -->
+#### ㅤWell, in the near future I want to learn more languages and tools such as: Flutter, Ruby, Git and WASM...
 
 ### Oh, an thats my activity here:
 ![](https://github-readme-stats.vercel.app/api?username=lowsoul-exe&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -38,7 +38,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lowsoul-exe&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-###### And yeah..... that's me... ughhhhh..... IDK  *>_<*
+##### And yeah..... that's me... ughhhhh..... IDK  *>_<*
 ##### Bui! Bui!
 
 ______________________________________________________________________________
